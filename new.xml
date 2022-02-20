@@ -1,7 +1,7 @@
-	<Firstname="Alena">
-	<Lastname="Radionova">
+	<Firstname>Alena</Firstname>
+	<Lastname>Radionova</Lastname>
 	<Age>34</Age>
-	<My pet="cat">
+	<My pet>cat</My pet>
 	<My salary>2500</My salary>
 
 
