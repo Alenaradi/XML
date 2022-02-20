@@ -1,0 +1,8 @@
+<Title>The incorrect message is displayed if invalid password is entered</Title>
+<OS>Windows 10x64</OS>
+<Build>0.001</Build>
+<Step_1>Click Sign In icon</Step_1>
+<Step_2>Enter valid email and invalid password</Step_2>
+<Actual_result>Incorrect message os displayed</Actual_result>
+<Expected_result>'You enter incorrect email and/or password' message should be displayed</Expected _result>
+
